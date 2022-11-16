@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jvDgmE3d7X4nO+XDG3/EemCEhYK0g6QZl/kpEvbrscCWIHi6ZyWyeTV9DTlOd+PnaNuMDy4A6WgAEHokLLy8Lw==",
+  "dgSpecHash": "MfB8D5m3Y9kB1YCjmUm5ELIaGxHb7DM3D5ggQt2fYSoYPUqTxhlpbfJNx+dsSZYucCpav5zC3O9jcSzJjWwnAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\supbo\\source\\repos\\GameEngine\\GameEngine\\GameEngine.csproj",
+  "projectFilePath": "C:\\Users\\supbo\\COMP3000\\GameEngine\\GameEngine\\GameEngine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

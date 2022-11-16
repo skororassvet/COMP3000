@@ -11,7 +11,6 @@ namespace GameEngine
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            movingObject_checkbox.Checked = true;
             trackBar1.Value = 300;
         }
 

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\supbo\\source\\repos\\GameEngine\\GameEngine\\GameEngine.csproj",
+      "projectUniqueName": "C:\\Users\\supbo\\COMP3000\\GameEngine\\GameEngine\\GameEngine.csproj",
       "projectName": "GameEngine",
-      "projectPath": "C:\\Users\\supbo\\source\\repos\\GameEngine\\GameEngine\\GameEngine.csproj",
+      "projectPath": "C:\\Users\\supbo\\COMP3000\\GameEngine\\GameEngine\\GameEngine.csproj",
       "packagesPath": "C:\\Users\\supbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\supbo\\source\\repos\\GameEngine\\GameEngine\\obj\\",
+      "outputPath": "C:\\Users\\supbo\\COMP3000\\GameEngine\\GameEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
